@@ -1,2 +1,2 @@
-# chats
-Realtime Chat use Next.js
+# Chating App using Next JS
+Realtime Chat use Next
